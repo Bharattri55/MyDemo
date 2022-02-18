@@ -8,6 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("Bharat Tripathi--------->")
-        println("Bharat Tripathi2--------->")
     }
 }
