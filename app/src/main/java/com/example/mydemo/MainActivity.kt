@@ -8,15 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //dsdsdsdsdssdsd
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
-        println("Bharat-----ddssdd>")
     }
 }
